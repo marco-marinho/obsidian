@@ -1,0 +1,173 @@
+{
+  "main": {
+    "id": "ff2928acb9506f01",
+    "type": "split",
+    "children": [
+      {
+        "id": "0a62dd351b1e7f52",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5eea556b08c11b6c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Windows Environment/MSYS 2.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "MSYS 2"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "3611698e827d1966",
+    "type": "split",
+    "children": [
+      {
+        "id": "8d1e93ad567a82e0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "788462bd8c57ebde",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "53b3c520e69bca3e",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "3bdb7d93be287ee9",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "76b6ded8e2a949f2",
+    "type": "split",
+    "children": [
+      {
+        "id": "c86edc539e22c0a7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a6fc57df1a432e76",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Windows Environment/MSYS 2.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for MSYS 2"
+            }
+          },
+          {
+            "id": "71c288ad8c13c08f",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Windows Environment/MSYS 2.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from MSYS 2"
+            }
+          },
+          {
+            "id": "66fdaeeadd026705",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "377c83b82f35128a",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Windows Environment/MSYS 2.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of MSYS 2"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "5eea556b08c11b6c",
+  "lastOpenFiles": [
+    "Windows Environment/Wezterm Setup.md",
+    "Windows Environment/MSYS 2.md",
+    "2024-11-08.md",
+    "Windows Environment",
+    "MSYS2"
+  ]
+}
